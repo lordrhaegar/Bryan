@@ -1,3 +1,6 @@
+// Module Title: SWE6206: Emerging Technologies
+// Assessment Title: Emerging Technologies based Industry Solutions
+// StudentID: 2333176
 import { registerRootComponent } from 'expo';
 
 import App from './App';
